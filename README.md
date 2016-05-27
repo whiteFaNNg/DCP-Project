@@ -5,11 +5,15 @@
 
 The Project is about creating a chat room using sockets in localhost server in Linux by implementing POSIX Threads Programming in C language. It consists of 2 files called client.c and server.c  
 The server.c file is run on the server, whereas the client.c file is run on the client.  
-Commands: 
+
+---
+
+Commands:
 * _/exit_
 * _/online_
 * _/whisper_ "user" 
 
+---
 
 ####The Client.c File:
 
