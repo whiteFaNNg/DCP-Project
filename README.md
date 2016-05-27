@@ -8,7 +8,7 @@ The server.c file is run on the server, whereas the client.c file is run on the 
 
 ---
 
-Commands:
+__Commands:__
 * _/exit_
 * _/online_
 * _/whisper_ "user" 
