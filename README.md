@@ -1,6 +1,6 @@
 
-##Distributed and Concurrent Programming Project
----
+#Distributed and Concurrent Programming Project
+
 ###++++++++++++++++++++++++++++++++++   </br>| &nbsp;&nbsp;&nbsp;&nbsp;Chat Room using Sockets in Linux &nbsp;&nbsp;&nbsp;&nbsp;|</br>   ++++++++++++++++++++++++++++++++++
 
 The Project is about creating a chat room using sockets in localhost server in Linux by implementing POSIX Threads Programming in C language. It consists of 2 files called client.c and server.c  
