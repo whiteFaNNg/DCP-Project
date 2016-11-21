@@ -1,5 +1,4 @@
 
-#Distributed and Concurrent Programming Project
 
 ###++++++++++++++++++++++++++   </br> &nbsp;&nbsp;&nbsp;&nbsp;Chat Room using Sockets in Linux &nbsp;&nbsp;&nbsp;&nbsp;</br>   ++++++++++++++++++++++++++
 
